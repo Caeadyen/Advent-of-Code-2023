@@ -1,0 +1,10 @@
+LR
+
+CCA = (CCB, XXX)
+CCB = (XXX, CCZ)
+CCZ = (CCB, XXX)
+EEA = (EEB, XXX)
+EEB = (EEC, EEC)
+EEC = (EEZ, EEZ)
+EEZ = (EEB, EEB)
+XXX = (XXX, XXX)
